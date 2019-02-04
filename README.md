@@ -7,7 +7,7 @@ Green screen depth shader. Works with Reshade 3.1.1 and newer. This is a fork of
 ![Dark Souls 3 Example](https://raw.githubusercontent.com/orm-fux/green-screen-depth/master/green-screen-sample.png)
 
 
-Contains two adjustable values iretcly related to the green screen:
+Contains two adjustable values directly related to the green screen:
 - Green screen color - Doesn't have to be green
 - Depth cut off - This is how far away from the camera until the green screen kicks in.
 
