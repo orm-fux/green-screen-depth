@@ -11,6 +11,6 @@ Contains two adjustable values iretcly related to the green screen:
 - Green screen color - Doesn't have to be green
 - Depth cut off - This is how far away from the camera until the green screen kicks in.
 
-Please ensure that ```RESHADE_DEPTH_INPUT_IS_REVERESED``` is not enabled in settings, or it will cause the shader to work incorrectly.
+Please ensure that ```RESHADE_DEPTH_INPUT_IS_REVERSED``` is not enabled in settings, or it will cause the shader to work incorrectly.
 
 To install, simply place the GreenScreenDepth.fx in your shader folder of the game you installed Reshade on.
